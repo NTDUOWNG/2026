@@ -122,7 +122,7 @@ function setupModal() {
                 </div>
             </div>
         </div>
-        <div class="close-hint">Kéo xuống</div>
+        <div class="close-hint">Kéo xuống đi 🐧</div>
     `;
 
     document.body.appendChild(modal);
