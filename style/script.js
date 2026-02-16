@@ -122,7 +122,7 @@ function setupModal() {
                 </div>
             </div>
         </div>
-        <div class="close-hint">Nhấn giữ Lì Xì để xem mệnh giá</div>
+        <div class="close-hint">Kéo xuống</div>
     `;
 
     document.body.appendChild(modal);
